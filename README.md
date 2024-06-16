@@ -53,8 +53,7 @@ To run this Flutter application, follow these steps:
 
 2. **Java Development Kit (JDK)**: Make sure you have Java Development Kit (JDK) installed. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-downloads.html) or use OpenJDK.
 
-3. **Setup Android SDK**:
-   - Ensure you have the Android SDK installed. You can download it through Android Studio's SDK Manager or from [developer.android.com](https://developer.android.com/studio).
+3. **Setup Android SDK**: Ensure you have the Android SDK installed. You can download it through Android Studio's SDK Manager or from [developer.android.com](https://developer.android.com/studio).
 
 4. **Clone the Repository**:
    - Clone this repository to your local machine using Git:
