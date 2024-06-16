@@ -59,7 +59,7 @@ To run this Flutter application, follow these steps:
 4. **Clone the Repository**:
    - Clone this repository to your local machine using Git:
      ```
-     git clone https://github.com/NoorUlBaseer/SamanGhar.pk.git
+     git clone https://github.com/NoorUlBaseer/SamaanGhar.pk-E-commerce-Mobile-Application
      ```
 
 5. **Android Studio or VS Code**: Open the cloned repository in Android Studio or Visual Studio Code (VS Code).
