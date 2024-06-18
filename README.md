@@ -2,7 +2,7 @@
 
 Welcome to SamanGhar.pk, an e-commerce mobile application developed using Flutter framework for Android. This application provides a seamless shopping experience for users to browse, search, and purchase a variety of products directly from their Android devices.
 
-## Features
+## Features 
 
 - **User Authentication**: Secure login and signup functionality using email and password authentication.
 - **Product Catalog**: Browse for products across different categories.
